@@ -1,0 +1,34 @@
+css is a style language 
+first of all require a selector to apply css 
+mostly uses Externel Styel sheets 
+
+3 ways to write css 
+1. inline style
+2. externel file 
+3. inside file 
+
+maximum priority : inline css 
+best practice : externel css
+try not to ovwerlap it with inline css 
+rgba(255,255,255, 1) 1 is for opacity 
+for only the combination of colors use rgb(255, 255, 255)
+hexa decimal system #ff0000(for red)
+
+-absolute unit in css
+some prperties get apply on both child and parent when applied on parent.
+
+box model in css 
+margin, width, height, padding, border
+border build inside the box
+short hand of border, border: width, style, color;
+padding shorthand padding : 50 px 5px padding from all 4 directions.
+padding: top, right, bottom, left -> clockwise
+
+display properties of element of Html
+inline, block , inline-block
+
+relative units in css-
+%, em, rem 
+
+viewport = vw 
+
