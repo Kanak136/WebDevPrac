@@ -6,18 +6,8 @@ div{
     background-color: aquamarine;
 }
 #box1{
-    position: fixed;  /* irrespective of the flow*/
-    top: 50px;
-    z-index: 1; /* no changes*/
-}
-#box2{
-    position: sticky; 
-    left:50px; /*relative to itself*/
-}
-#box3{
-    position: sticky;  /* relative to the browser */
-    top: 20px;
-}
-#box4{
-    position: sticky;
+    background-image: url("sittingGirl.avif");
+    background-size: contain;     /* background-size: cover, contain, auto*/
+    background-repeat: no-repeat;
+
 }

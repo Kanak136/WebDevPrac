@@ -1,0 +1,10 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-image: url(sittingGirl.avif);
+    background-size: cover;
+    font-weight: bold;
+    text-decoration: underline;
+    position: fixed ;
+    right: 0px;
+}
